@@ -88,6 +88,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
