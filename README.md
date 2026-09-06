@@ -23,6 +23,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0152-maximum-product-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
