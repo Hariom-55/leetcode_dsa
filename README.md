@@ -12,6 +12,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0015-3sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariom-55/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hariom-55/leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
