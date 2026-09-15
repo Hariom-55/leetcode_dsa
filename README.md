@@ -24,6 +24,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -93,6 +94,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 ## Divide and Conquer
 |  |
 | ------- |
