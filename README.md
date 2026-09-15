@@ -45,6 +45,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariom-55/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -71,6 +72,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -96,6 +98,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 ## String
@@ -106,6 +109,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 ## Divide and Conquer
 |  |
