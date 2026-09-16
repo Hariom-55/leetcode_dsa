@@ -65,6 +65,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -99,6 +100,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Hariom-55/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +114,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
