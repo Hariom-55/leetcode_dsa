@@ -44,6 +44,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Hariom-55/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hariom-55/leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariom-55/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +121,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Hariom-55/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
