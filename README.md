@@ -9,6 +9,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0001-two-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hariom-55/leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -127,6 +128,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hariom-55/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hariom-55/leetcode_dsa/tree/master/0125-valid-palindrome) |
@@ -233,4 +235,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
