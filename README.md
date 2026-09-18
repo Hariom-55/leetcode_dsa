@@ -35,6 +35,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -63,6 +64,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0209-minimum-size-subarray-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +119,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -149,6 +153,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0152-maximum-product-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
