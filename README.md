@@ -14,6 +14,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Hariom-55/leetcode_dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hariom-55/leetcode_dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariom-55/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
