@@ -43,6 +43,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hariom-55/leetcode_dsa/tree/master/0016-3sum-closest) |
@@ -127,6 +128,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hariom-55/leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
@@ -151,6 +153,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,4 +242,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
