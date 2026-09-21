@@ -276,4 +276,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Hariom-55/leetcode_dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
