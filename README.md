@@ -253,4 +253,12 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
