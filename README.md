@@ -84,6 +84,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0209-minimum-size-subarray-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
@@ -145,6 +146,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
@@ -161,6 +163,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,4 +309,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
