@@ -28,12 +28,7 @@ class Solution {
             merge = merge.next;
         }
 
-        if(merge.next == list1 && list1 == null)
-        {
-            merge.next = list2;
-        }else {
-            merge.next = list1;
-        }
+        merge.next = (list1 != null) ? list1 : list2;
 
         return dummy.next;
     }
