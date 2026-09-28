@@ -167,6 +167,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,6 +242,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -328,4 +330,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
