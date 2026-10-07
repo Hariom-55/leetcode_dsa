@@ -160,6 +160,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hariom-55/leetcode_dsa/tree/master/0125-valid-palindrome) |
@@ -249,6 +250,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
@@ -346,6 +348,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tournament Sort
 |  |
