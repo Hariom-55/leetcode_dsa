@@ -38,6 +38,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0239-sliding-window-maximum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
@@ -256,6 +257,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -302,6 +304,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 ## Trie
 |  |
 | ------- |
