@@ -51,6 +51,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -239,6 +241,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
