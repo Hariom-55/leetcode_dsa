@@ -44,6 +44,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0941-valid-mountain-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
