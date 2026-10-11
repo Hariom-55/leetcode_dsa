@@ -52,6 +52,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -268,6 +269,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +315,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 ## Trie
 |  |
 | ------- |
