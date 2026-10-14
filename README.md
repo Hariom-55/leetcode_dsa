@@ -195,6 +195,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0009-palindrome-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Hariom-55/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +276,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0179-largest-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Hariom-55/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Union-Find
 |  |
 | ------- |
