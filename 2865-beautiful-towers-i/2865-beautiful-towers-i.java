@@ -1,39 +1,64 @@
 class Solution {
     public long maximumSumOfHeights(int[] heights) {
         
-        int peakIdx = 0 ;
-        long maxOverallSum = 0;
+        int n = heights.length;
+        
+        long [] leftSum = new long[n];
+        long [] rightSum = new long[n];
 
-        for(; peakIdx<heights.length; peakIdx++)
+        Stack<Integer> stack = new Stack<>();
+
+        for(int i =0; i<n ; i++)
         {
-            int left = peakIdx - 1;
-            int right = peakIdx + 1;
-            long sum = heights[peakIdx];
-
-
-            int leftMin = heights[peakIdx];
-
-            while(left >= 0)
+            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i])
             {
-                leftMin = Math.min(leftMin, heights[left]);
-                sum += leftMin;
-                left--;
+                stack.pop();
             }
 
-            int rightMin = heights[peakIdx];
-            while(right < heights.length)
+            if(stack.isEmpty())
             {
-                rightMin = Math.min(rightMin, heights[right]);
-                sum += rightMin;
-                right++;
+                leftSum[i] = (long)(i+1) * heights[i];
+            }
+            else{
+                int prev = stack.peek();
+                leftSum[i] = leftSum[prev] + (long)(i - prev) * heights[i];
             }
 
-            maxOverallSum = Math.max(maxOverallSum , sum);
+            stack.push(i);
         }
 
-        
+        stack.clear();
 
-        return maxOverallSum;
+
+        for(int i = n-1; i>=0; i--)
+        {
+            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i])
+            {
+                stack.pop();
+            }
+
+            if(stack.isEmpty())
+            {
+                rightSum[i] = (long)(n-i) * heights[i];
+            }
+            else{
+                int next = stack.peek();
+                rightSum[i] = rightSum[next] + (long)(next-i) * heights[i];
+            }
+
+            stack.push(i);
+        }
+
+        long overallMaxSum = 0;
+        for(int i = 0; i<n ; i++)
+        {
+            long currentSum = leftSum[i] + rightSum[i] - heights[i];
+
+            overallMaxSum = Math.max(currentSum, overallMaxSum);
+        }
+
+        return overallMaxSum;
+
 
     }
 }
