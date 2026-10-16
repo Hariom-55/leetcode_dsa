@@ -7,7 +7,7 @@ class Solution {
         mappedBrackets.put('}','{');
         mappedBrackets.put(']', '[');
 
-        Stack<Character> stack = new Stack<>();
+        Deque<Character> stack = new ArrayDeque<>();
 
         for(int i=0; i<s.length(); i++)
         {
