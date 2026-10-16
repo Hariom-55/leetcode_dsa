@@ -5,23 +5,31 @@ class MyStack {
     public MyStack() {}
     
     public void push(int x) {
-        int size = queue.size();
         queue.offer(x);
-
-        for(int i=0 ; i<size; i++)
-        {
-            queue.offer(queue.peek());
-            queue.poll();
-        }
-
     }
     
     public int pop() {
+        int size = queue.size();
+
+        for(int i=0; i<size-1; i++)
+        {
+            queue.offer(queue.poll());
+        }
+
         return queue.poll();
     }
     
     public int top() {
-        return queue.peek();
+        int size = queue.size();
+
+        for(int i=0; i<size-1; i++)
+        {
+            queue.offer(queue.poll());
+        }
+        int topElement = queue.poll();
+        queue.offer(topElement);
+
+        return topElement;
     }
     
     public boolean empty() {
