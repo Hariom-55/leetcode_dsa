@@ -43,6 +43,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0941-valid-mountain-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -271,6 +272,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0232-implement-queue-using-stacks](https://github.com/Hariom-55/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
@@ -322,6 +324,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 ## Trie
 |  |
