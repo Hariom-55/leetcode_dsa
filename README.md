@@ -266,6 +266,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Hariom-55/leetcode_dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -362,6 +363,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Hariom-55/leetcode_dsa/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 ## Bracket Sequences
 |  |
