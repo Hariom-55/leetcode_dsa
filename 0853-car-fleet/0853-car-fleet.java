@@ -1,28 +1,32 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
         
-        int n = position.length;
-        double[][] cars = new double[n][2];
+        int [] speeds = new int[target];
 
-        for(int i=0; i<n; i++)
+        for(int i=0; i<position.length; i++)
         {
-            cars[i][0] = position[i];
-            cars[i][1] = (double)(target - position[i]) / speed[i];
+            speeds[position[i]] = speed[i];
         }
-
-        Arrays.sort(cars, (a,b) ->Double.compare(b[0], a[0]));
 
         int count = 0;
         double prevTime = 0;
-        for(double[] car: cars)
+
+        for(int i = target-1; i>=0 ; i--)
         {
-            if(car[1] > prevTime)
+            if(speeds[i] == 0)
+            {
+                continue;
+            }
+
+            double time = (double) (target-i) / speeds[i];
+
+            if(time > prevTime)
             {
                 count++;
-                prevTime = car[1];
+                prevTime = time;
             }
         }
 
-        return count; 
+        return count;
     }
 }
