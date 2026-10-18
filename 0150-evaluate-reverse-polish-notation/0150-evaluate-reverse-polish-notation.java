@@ -1,28 +1,41 @@
 class Solution {
-    public int evalRPN(String[] tokens) {
-       
-        int[] stack = new int[(tokens.length + 1) / 2];
-        int top = -1;
-        
-        for (String token : tokens) {
-            char c = token.charAt(0);
-            
-            
-            if (token.length() == 1 && (c == '+' || c == '-' || c == '*' || c == '/')) {
-                int b = stack[top--];
-                int a = stack[top--];
-                
-                switch (c) {
-                    case '+': stack[++top] = a + b; break;
-                    case '-': stack[++top] = a - b; break;
-                    case '*': stack[++top] = a * b; break;
-                    case '/': stack[++top] = a / b; break;
-                }
-            } else {
-                stack[++top] = Integer.parseInt(token);
-            }
+    private boolean isOperator(String token)
+    {
+        return token.equals("+") || token.equals("-") || token.equals("*") || token.equals("/");
+    }
+
+    private int applyOperator(String operator, int a , int b)
+    {
+        switch(operator)
+        {
+            case "+": return a+b;
+            case "-": return a-b;
+            case "*": return a*b;
+            case "/": return a/b;
+            default : throw new IllegalArgumentException("Invalid Operator");
         }
-        
-        return stack[top];
+    }
+    
+
+    public int evalRPN(String[] tokens) {
+
+        Deque<Integer> operands = new ArrayDeque<>();
+        for(String token: tokens)
+        {
+            if(!isOperator(token))
+            {
+                operands.push(Integer.parseInt(token));
+            }
+            else
+            {
+                int second = operands.pop();
+                int first = operands.pop();
+
+                int result = applyOperator(token, first, second);
+                operands.push(result);
+            }
+        } 
+
+        return operands.pop();   
     }
 }
