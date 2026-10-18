@@ -27,6 +27,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0088-merge-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariom-55/leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -198,6 +199,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0002-add-two-numbers](https://github.com/Hariom-55/leetcode_dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hariom-55/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
@@ -270,6 +272,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Hariom-55/leetcode_dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hariom-55/leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hariom-55/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
