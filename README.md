@@ -55,6 +55,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -100,6 +101,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Hariom-55/leetcode_dsa/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
