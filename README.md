@@ -175,6 +175,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Hariom-55/leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hariom-55/leetcode_dsa/tree/master/0125-valid-palindrome) |
@@ -209,6 +210,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hariom-55/leetcode_dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -390,6 +392,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tournament Sort
 |  |
@@ -407,4 +410,8 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
