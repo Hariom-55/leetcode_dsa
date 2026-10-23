@@ -47,6 +47,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/Hariom-55/leetcode_dsa/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0941-valid-mountain-array) |
@@ -164,6 +165,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
@@ -186,6 +188,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -426,4 +429,12 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0022-generate-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
