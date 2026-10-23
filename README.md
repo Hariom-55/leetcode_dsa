@@ -49,6 +49,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/Hariom-55/leetcode_dsa/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Hariom-55/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Hariom-55/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0941-valid-mountain-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -101,6 +102,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0209-minimum-size-subarray-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Hariom-55/leetcode_dsa/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
