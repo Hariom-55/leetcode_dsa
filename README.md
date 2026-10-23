@@ -62,6 +62,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Hariom-55/leetcode_dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +277,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Hariom-55/leetcode_dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
