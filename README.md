@@ -24,6 +24,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0074-search-a-2d-matrix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hariom-55/leetcode_dsa/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -278,6 +279,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0020-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -334,11 +336,13 @@ DAILY LEETCODE PROBLEM SOLUTION
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Hariom-55/leetcode_dsa/tree/master/0853-car-fleet) |
