@@ -43,6 +43,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0347-top-k-frequent-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Hariom-55/leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Hariom-55/leetcode_dsa/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Hariom-55/leetcode_dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hariom-55/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Hariom-55/leetcode_dsa/tree/master/0739-daily-temperatures) |
@@ -256,6 +257,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0203-remove-linked-list-elements](https://github.com/Hariom-55/leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/Hariom-55/leetcode_dsa/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -329,6 +331,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0225-implement-stack-using-queues](https://github.com/Hariom-55/leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hariom-55/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Hariom-55/leetcode_dsa/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -394,6 +397,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0155-min-stack](https://github.com/Hariom-55/leetcode_dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hariom-55/leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hariom-55/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Hariom-55/leetcode_dsa/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
 ## Bracket Sequences
 |  |
