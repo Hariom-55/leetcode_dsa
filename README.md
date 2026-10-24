@@ -197,6 +197,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hariom-55/leetcode_dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Hariom-55/leetcode_dsa/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,6 +215,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0013-roman-to-integer](https://github.com/Hariom-55/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariom-55/leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/Hariom-55/leetcode_dsa/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hariom-55/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
