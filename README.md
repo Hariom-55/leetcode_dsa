@@ -56,6 +56,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0977-squares-of-a-sorted-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hariom-55/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Hariom-55/leetcode_dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariom-55/leetcode_dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Hariom-55/leetcode_dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
@@ -315,6 +316,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -383,6 +385,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 ## Database
 |  |
 | ------- |
@@ -427,6 +430,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +443,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
+| [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
