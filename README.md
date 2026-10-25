@@ -192,6 +192,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0242-valid-anagram](https://github.com/Hariom-55/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariom-55/leetcode_dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hariom-55/leetcode_dsa/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Hariom-55/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hariom-55/leetcode_dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Hariom-55/leetcode_dsa/tree/master/0981-time-based-key-value-store) |
@@ -311,6 +312,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hariom-55/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Hariom-55/leetcode_dsa/tree/master/0179-largest-number) |
+| [0649-dota2-senate](https://github.com/Hariom-55/leetcode_dsa/tree/master/0649-dota2-senate) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hariom-55/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Union-Find
 |  |
@@ -343,6 +345,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [0232-implement-queue-using-stacks](https://github.com/Hariom-55/leetcode_dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hariom-55/leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Hariom-55/leetcode_dsa/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Hariom-55/leetcode_dsa/tree/master/0649-dota2-senate) |
 ## Monotonic Queue
 |  |
 | ------- |
