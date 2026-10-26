@@ -63,6 +63,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2865-beautiful-towers-i](https://github.com/Hariom-55/leetcode_dsa/tree/master/2865-beautiful-towers-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Hariom-55/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Hariom-55/leetcode_dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -319,6 +320,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hariom-55/leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -389,6 +391,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hariom-55/leetcode_dsa/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
@@ -434,6 +437,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hariom-55/leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -447,6 +451,7 @@ DAILY LEETCODE PROBLEM SOLUTION
 | ------- |
 | [0752-open-the-lock](https://github.com/Hariom-55/leetcode_dsa/tree/master/0752-open-the-lock) |
 | [1254-number-of-closed-islands](https://github.com/Hariom-55/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hariom-55/leetcode_dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bidirectional Search
 |  |
 | ------- |
